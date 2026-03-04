@@ -29,7 +29,7 @@ public class MoveAllNegativesToStart
 	private static void reArrageElements(int[] arr, int[] newArr) 
 	{
 		int j=0;
-		for(int i=0;i<=arr.length-1;i++)
+		for(int i=0;i<=arr.length-1;i++)//6<=6
 		{
 			if(arr[i]<0)
 			{
@@ -38,7 +38,7 @@ public class MoveAllNegativesToStart
 			}
 		}
 		
-		for(int i=0;i<=arr.length-1;i++)
+		for(int i=0;i<=arr.length-1;i++)//6<=6
 		{
 			if(arr[i]>0)
 			{
