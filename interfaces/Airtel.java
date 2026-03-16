@@ -33,5 +33,11 @@ public class Airtel extends Test1 implements Trai {
 	public void spectrum() {
 		System.out.println("Airtel purchases 5g spectrum from government");
 	}
+	
+	
+	public void provide3GSupport()
+	{
+		System.out.println("Airtel supports 3g  for specific devices");
+	}
 
 }

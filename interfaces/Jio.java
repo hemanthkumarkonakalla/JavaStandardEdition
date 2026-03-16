@@ -33,5 +33,10 @@ public class Jio implements Trai{
 	public void spectrum() {
 		System.out.println("Jio purchases 5g spectrum from government");
 	}
+	
+	public void provide3GSupport()
+	{
+		System.out.println("Jio supports 3g  for thier own devices");
+	}
 
 }

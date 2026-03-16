@@ -11,8 +11,11 @@ public class Test
 		a.xStream();
 		a.spectrum();
 		a.display();
+		System.out.println("==================================================================");
 		s.simOperator(j);
 		j.jioTV();
+		j.spectrum();
+		j.provide3GSupport();
 		
 	}
 
