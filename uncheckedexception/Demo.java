@@ -26,6 +26,9 @@ public class Demo
 		{
 			System.out.println("Exception :"+e.getMessage());
 			System.out.println("Root Cause:"+e.getCause());
+			
+			// ChainingException is BUSINESS LEVEL - meaningful message
+		    // original cause 'e' is preserved inside for debugging
 		}
 		
 	}
