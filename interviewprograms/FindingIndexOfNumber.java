@@ -23,6 +23,6 @@ public class FindingIndexOfNumber
 		sc.close();
 		
 	}
-	
+
 
 }

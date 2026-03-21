@@ -19,7 +19,6 @@ public class FetchDataBasedOnIndex
 				res=arr[i];
 				
 			}
-
 		}
 		
 			System.out.println("The element present at index:"+n+" is :"+res);

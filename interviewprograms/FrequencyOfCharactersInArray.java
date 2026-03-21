@@ -24,7 +24,7 @@ public class FrequencyOfCharactersInArray
 				hm.put(arr[i], hm.get(arr[i])+1);
 			}
 		}
-		
+
 		
 		
 		for(Entry<Character, Integer> res:hm.entrySet())
