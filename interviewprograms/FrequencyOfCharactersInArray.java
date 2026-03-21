@@ -26,6 +26,7 @@ public class FrequencyOfCharactersInArray
 		}
 		
 		
+		
 		for(Entry<Character, Integer> res:hm.entrySet())
 		{
 			System.out.println(res.getKey()+" : "+res.getValue());
