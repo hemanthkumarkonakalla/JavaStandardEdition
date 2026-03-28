@@ -34,7 +34,7 @@ public class TwoSumProblem
 			hm.put(arr[i],i);
 		}
 		
-		return null;
+		return new int[] {};
 	}
 
 }
