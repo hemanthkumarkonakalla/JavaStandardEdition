@@ -1,4 +1,4 @@
-package com.java.standard.edition.iterator;
+package com.java.standard.edition.collectionframework.iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
