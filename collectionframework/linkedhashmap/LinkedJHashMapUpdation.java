@@ -1,0 +1,28 @@
+package com.java.standard.edition.collectionframework.linkedhashmap;
+
+import java.util.LinkedHashMap;
+
+public class LinkedJHashMapUpdation 
+{
+	public static void main(String[] args) 
+	{
+		//creation of linkedhashmap
+		LinkedHashMap<String, Integer> lh = new LinkedHashMap<String, Integer>();
+		
+		//adding the key,values into linkedhashmap
+		
+		lh.put("English", 90);
+		lh.put("Telugu", 96);
+		lh.put("Maths", 100);
+		lh.put("Physics", 85);
+		lh.put("Chemistry", 80);
+		lh.put("Social", 77);
+		lh.put("Biology", 72);
+		lh.put("Biology", 82);
+		
+		
+		System.out.println(lh);
+		
+	}
+
+}
